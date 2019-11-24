@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+
+.page{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  
+}
+
+.menu{
+    margin-right: 200px;
+    padding: 50px;
+    background-color: cadetblue;
+}
+
+
+.section {
+    padding: 200px;
+    
+}
+
+.Profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profileImg {
+    width: 20%;
+}
